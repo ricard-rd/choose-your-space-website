@@ -20,6 +20,14 @@
     color: white;
 }
 
+.alt-banner {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    background-image: url(img/banner_alt.jpg);
+    background-size: cover;
+    color: white;
+}
+
 .feature-holder {
     text-align: center;
     margin-bottom: 25px;
